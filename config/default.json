@@ -1,5 +1,5 @@
 {
-    "mongodbURI": "mongodb://localhost:27017/vmail",
+    "mongodbURI": "mongodb+srv://domesticIndia:cBOW71GNoVBtasdR@domesticindia-0hcnd.mongodb.net/vmail?retryWrites=true&w=majority",
     "jwtSecret": "r4;v&,B<nW2Ns)eUyMCt`dd@{b`>]jneLz7dv,E>$aQEed}/3=",
     "adminSecret": "r4;v&,B<nW2Ns)eUyMCt`dd@{b`>]jneLz7dv,E>$aQEed}/3="
 }
