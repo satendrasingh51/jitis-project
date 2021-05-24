@@ -1,0 +1,5 @@
+{
+    "mongodbURI": "mongodb://localhost:27017/vmail",
+    "jwtSecret": "r4;v&,B<nW2Ns)eUyMCt`dd@{b`>]jneLz7dv,E>$aQEed}/3=",
+    "adminSecret": "r4;v&,B<nW2Ns)eUyMCt`dd@{b`>]jneLz7dv,E>$aQEed}/3="
+}
