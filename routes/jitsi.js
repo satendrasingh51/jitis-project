@@ -1,7 +1,6 @@
 const express=require('express');
 const auth=require('../middleware/auth');
 const router=express();
-const Jitsi=require('../models/jitsi');
 const users=require('../models/users');
 
 
